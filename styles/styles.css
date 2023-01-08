@@ -98,7 +98,7 @@ color: #444343;
     margin-bottom: 130px;
 }
 .plan{
-    text-align: center;
+    align-items: center;
     width: 92.96px;
 height: 92.96px
 }
@@ -147,7 +147,7 @@ border-radius: 8px;
     background: #151414;
     justify-content: space-between;
     width: 1600px;
-height: 600px;
+height: 300px;
     align-items: center;
     padding: 130px 200px;
 }
