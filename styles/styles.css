@@ -39,3 +39,42 @@ main{
     padding: 20px 25px;
 }
 /*end-header-css*/
+/*start failures css-->*/
+.section{
+    font-display:  flex;
+}
+.section-picture{
+    width: 400px;
+    height: 416px;
+    padding: 10px 20px 30 40px;
+
+}
+.section-title{
+    display: flex;
+    color: #151414;
+    font-weight: 700px;
+    font-size: 40px;
+    line-height: 47px;
+    
+    margin: 24px 0px 30px;
+    margin-bottom: 24px;
+}
+.section-description{
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px; 
+    left: 862px;
+     
+}
+.description {
+width: 400px;
+left: 862px;
+top: 1400px;
+color: #444343;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+/*end failure css*/
